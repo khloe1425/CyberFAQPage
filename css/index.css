@@ -70,7 +70,9 @@ a {
 img:not(.logo) {
     width: 100%;
 }
-
+img.question-img{
+    width: 50%;
+}
 img {
     display: block;
 }
